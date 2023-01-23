@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ejemplo básico de HTML</title>
+</head>
+<body>
+  <h1>Título principal</h1>
+  <p>Este es un párrafo de ejemplo.</p>
+  <ul>
+    <li>Primer elemento de una lista desordenada</li>
+    <li>Segundo elemento de una lista desordenada</li>
+    <li>Tercer elemento de una lista desordenada</li>
+  </ul>
+  <ol>
+    <li>Primer elemento de una lista ordenada</li>
+    <li>Segundo elemento de una lista ordenada</li>
+    <li>Tercer elemento de una lista ordenada</li>
+  </ol>
+  <a href="https://www.google.com">Este es un enlace</a>
+  <img src="imagen.jpg" alt="Imagen de ejemplo">
+</body>
+</html>
